@@ -171,9 +171,25 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.844</td>
         <td>0.608</td>
     </tr>
-    <tr align="center">
+        <tr align="center">
         <td>10</td>
-        <td><a href="https://arxiv.org/abs/2205.15675">New IEConv</a></td>
+        <td><a href="https://github.com/phermosilla/IEConv_proteins">IEConv-I</a></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>0.450</td>
+        <td>0.697</td>
+        <td>0.989</td>
+        <td>0.872</td>
+    </tr>
+    <tr align="center">
+        <td>11</td>
+        <td><a href="https://arxiv.org/abs/2205.15675">IEConv-II</a></td>
         <td>0.735</td>
         <td>0.775</td>
         <td>0.374</td>
@@ -188,7 +204,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.872</td>
     </tr>
     <tr align="center">
-        <td>11</td>
+        <td>12</td>
         <td><a href="https://github.com/DeepGraphLearning/GearNet">GearNet</a></td>
         <td>0.730</td>
         <td>0.751</td>
@@ -204,7 +220,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.794</td>
     </tr>
     <tr align="center">
-        <td>12</td>
+        <td>13</td>
         <td><a href="https://github.com/DeepGraphLearning/GearNet">GearNet-IEConv</a></td>
         <td>0.800</td>
         <td>0.835</td>
@@ -220,7 +236,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.837</td>
     </tr>
     <tr align="center">
-        <td>13</td>
+        <td>14</td>
         <td><a href="https://github.com/DeepGraphLearning/GearNet">GearNet-Edge</a></td>
         <td>0.810</td>
         <td>0.872</td>
@@ -236,7 +252,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.866</td>
     </tr>
     <tr align="center">
-        <td>14</td>
+        <td>15</td>
         <td><a href="https://github.com/DeepGraphLearning/GearNet">GearNet-Edge-IEConv</a></td>
         <td>0.810</td>
         <td>0.843</td>
@@ -252,7 +268,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.853</td>
     </tr>
     <tr align="center">
-        <td>15</td>
+        <td>16</td>
         <td><a href="https://github.com/hehefan/Continuous-Discrete-Convolution">CDConv</a></td>
         <td>0.820</td>
         <td> - </td>
@@ -367,7 +383,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
     </tr>
     <tr align="center">
         <td>5</td>
-        <td> <a href="https://arxiv.org/abs/2205.15675">New IEConv</a></td>
+        <td> <a href="https://arxiv.org/abs/2205.15675">IEConv-II</a></td>
         <td>PDB (476 K)</td>
         <td>-</td>
         <td>-</td>
@@ -530,4 +546,3 @@ There are many types of protein datasets available. Most existing datasets are d
 2. Gene Ontology (GO, including GO-BP, GO-MF, GO-CC): [Processed By CDConv](https://drive.google.com/file/d/1H9zv9vjVXFjR0qjKFTBR3nYSQs3ek0hz/view?usp=sharing) 、[Processed By GearNet](https://zenodo.org/record/6622158/files/GeneOntology.zip)
 3.  Protein Fold (including Fold, Family, Superfamily): [Processed By CDConv](https://drive.google.com/file/d/1vEdezR5L44swsw09WFnaA5zFuA1ZEXHI/view?usp=sharing) 、[Processed By IEConv](http://s3.amazonaws.com/songlabdata/proteindata/data_pytorch/remote_homology.tar.gz)
 4. Enzyme Reaction (Reaction) : [Processed By CDConv](https://drive.google.com/file/d/1eL225Y_6TNYQYlVQNdNOsyK9-bSlDno4/view?usp=sharing) 、[Processed By IEConv](https://drive.google.com/uc?export=download&id=1udP6_90WYkwkvL1LwqIAzf9ibegBJ8rI)
-
