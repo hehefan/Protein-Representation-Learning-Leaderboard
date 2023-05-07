@@ -269,6 +269,54 @@ If you find any related paper, please kindly let us know. We will keep updating 
     </tr>
     <tr align="center">
         <td>16</td>
+        <td><a href="https://arxiv.org/abs/2207.12600">ProNet-Amino-Acid</a></td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td>0.515</td>
+        <td>0.699</td>
+        <td>0.990</td>
+        <td>0.860</td>
+    </tr>
+    <tr align="center">
+        <td>16</td>
+        <td><a href="https://arxiv.org/abs/2207.12600">ProNet-Backbone</a></td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td>0.527</td>
+        <td>0.703</td>
+        <td>0.993</td>
+        <td>0.864</td>
+    </tr>
+    <tr align="center">
+        <td>16</td>
+        <td><a href="https://arxiv.org/abs/2207.12600">ProNet-All-Atom</a></td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td>0.521</td>
+        <td>0.690</td>
+        <td>0.990</td>
+        <td>0.856</td>
+    </tr>
+    <tr align="center">
+        <td>16</td>
         <td><a href="https://github.com/hehefan/Continuous-Discrete-Convolution">CDConv</a></td>
         <td>0.820</td>
         <td> - </td>
@@ -542,7 +590,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
 
 ## Dataset
 There are many types of protein datasets available. Most existing datasets are derived from processed PDB files of the original proteins. Currently, CDConv and other methods provide processed datasets (⚠️ note that they are not compatible) that can be downloaded as needed:
-1. Enzyme Commission (EC): [Processed By CDConv](https://drive.google.com/file/d/1VEIyBSJbRf9x6k_w4Tqy5SC0G6NWWSWl/view?usp=sharing) 、[Processed By GearNet](https://zenodo.org/record/6622158/files/EnzymeCommission.zip)
-2. Gene Ontology (GO, including GO-BP, GO-MF, GO-CC): [Processed By CDConv](https://drive.google.com/file/d/1H9zv9vjVXFjR0qjKFTBR3nYSQs3ek0hz/view?usp=sharing) 、[Processed By GearNet](https://zenodo.org/record/6622158/files/GeneOntology.zip)
-3.  Protein Fold (including Fold, Family, Superfamily): [Processed By CDConv](https://drive.google.com/file/d/1vEdezR5L44swsw09WFnaA5zFuA1ZEXHI/view?usp=sharing) 、[Processed By IEConv](http://s3.amazonaws.com/songlabdata/proteindata/data_pytorch/remote_homology.tar.gz)
-4. Enzyme Reaction (Reaction) : [Processed By CDConv](https://drive.google.com/file/d/1eL225Y_6TNYQYlVQNdNOsyK9-bSlDno4/view?usp=sharing) 、[Processed By IEConv](https://drive.google.com/uc?export=download&id=1udP6_90WYkwkvL1LwqIAzf9ibegBJ8rI)
+1. Enzyme Commission (EC): [Processed By CDConv](https://drive.google.com/file/d/1VEIyBSJbRf9x6k_w4Tqy5SC0G6NWWSWl/view?usp=sharing), [Processed By GearNet](https://zenodo.org/record/6622158/files/EnzymeCommission.zip)
+2. Gene Ontology (GO, including GO-BP, GO-MF, GO-CC): [Processed By CDConv](https://drive.google.com/file/d/1H9zv9vjVXFjR0qjKFTBR3nYSQs3ek0hz/view?usp=sharing), [Processed By GearNet](https://zenodo.org/record/6622158/files/GeneOntology.zip)
+3.  Protein Fold (including Fold, Family, Superfamily): [Processed By CDConv](https://drive.google.com/file/d/1vEdezR5L44swsw09WFnaA5zFuA1ZEXHI/view?usp=sharing), [Processed By IEConv](http://s3.amazonaws.com/songlabdata/proteindata/data_pytorch/remote_homology.tar.gz)
+4. Enzyme Reaction (Reaction) : [Processed By CDConv](https://drive.google.com/file/d/1eL225Y_6TNYQYlVQNdNOsyK9-bSlDno4/view?usp=sharing), [Processed By IEConv](https://drive.google.com/uc?export=download&id=1udP6_90WYkwkvL1LwqIAzf9ibegBJ8rI)
