@@ -284,7 +284,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.860</td>
     </tr>
     <tr align="center">
-        <td>16</td>
+        <td>17</td>
         <td><a href="https://arxiv.org/abs/2207.12600">ProNet-Backbone</a></td>
         <td> - </td>
         <td> - </td>
@@ -300,7 +300,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.864</td>
     </tr>
     <tr align="center">
-        <td>16</td>
+        <td>18</td>
         <td><a href="https://arxiv.org/abs/2207.12600">ProNet-All-Atom</a></td>
         <td> - </td>
         <td> - </td>
@@ -316,7 +316,7 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>0.856</td>
     </tr>
     <tr align="center">
-        <td>16</td>
+        <td>19</td>
         <td><a href="https://github.com/hehefan/Continuous-Discrete-Convolution">CDConv</a></td>
         <td>0.820</td>
         <td> - </td>
