@@ -1,4 +1,4 @@
-# Awesome Protein Representation Learning
+# Protein Representation Learning Leaderboard
 If you find any related paper, please kindly let us know. We will keep updating the page. Thanks for your valuable contribution.
 
 ## Supervised Method
@@ -583,9 +583,6 @@ If you find any related paper, please kindly let us know. We will keep updating 
         <td>-</td>
     </tr>
 </table>
-
-
-## Related Work 
 
 
 ## Dataset
